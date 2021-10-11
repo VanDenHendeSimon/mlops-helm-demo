@@ -1,0 +1,11 @@
+apiVersion: v2
+appVersion: "1.0.0"
+description: A Helm chart for deploying FastAPI to k8s
+home: https://helm.sh/helm
+maintainers:
+  - email: email@example.com
+    name: Simon Van Den Hende
+name: fastapi
+sources:
+  - https://github.com/helm/helm
+version: 1.0.0
